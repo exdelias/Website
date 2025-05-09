@@ -8,9 +8,10 @@ The servers will be online ETA. 27/7. If the servers are down or there are downt
 All Systems Operational 🟢
 
 ## Components
-Website | 🟢 Operational
-News    | 🟢 Operational
-About   | 🟢 Operational
+
+**Website** | 🟢 Operational
+**News**    | 🟢 Operational
+**About**   | 🟢 Operational
 
 ## Incidents
 ### May 9, 2025
