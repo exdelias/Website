@@ -10,7 +10,9 @@ All Systems Operational 🟢
 ## Components
 
 **Website**| 🟢 Operational
+
 **News** | 🟢 Operational
+
 **About** | 🟢 Operational
 
 ## Incidents
